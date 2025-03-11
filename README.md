@@ -9,6 +9,12 @@ Utilized amazoncaptcha to bypass captcha page of amazon.
 from amazoncaptcha import AmazonCaptcha
 ``` 
 
+You can easily install amazoncaptcha using following pip command in the notebook
+
+```notebook
+!pip install amazoncaptcha
+```
+
 Saved reviews in a ```.csv``` format.
 
 ## Data Labeling
